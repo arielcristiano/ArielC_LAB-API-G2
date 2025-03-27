@@ -1,0 +1,17 @@
+input[type="text"] {
+    background-color: bisque;
+}
+input [type= "submit"] {
+    background-color: lightgray;
+    padding: 1rem  ;
+}
+a{
+    color: red;
+}
+
+.titulo{
+    text-align: ;
+    font-size: 2rem;
+    background-color: lightcoral;
+}
+
